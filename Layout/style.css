@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid green;
+}
+.box{
+    width: 100px ;
+    border: 2px solid red ; 
+  
+}
